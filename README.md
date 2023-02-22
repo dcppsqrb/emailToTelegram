@@ -1,6 +1,8 @@
 # Setup environment
 
 ```
+install python 3
+
 pip install python-telegram-bot --upgrade
 ```
 # Create new Telegram Bot
