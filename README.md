@@ -48,6 +48,7 @@ Update the chat ID to config.ini > [telegram] > chatId
 # Getting the chat ID of the Group
 
 In Telegram, create a new Group, and add the bot @aaa_bot
+
 Browse https://api.telegram.org/bot%http_api_token%/getUpdates
 
 e.g. https://api.telegram.org/botbbb:ccc-ddd/getUpdates
